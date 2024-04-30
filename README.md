@@ -1,1 +1,2 @@
 # Recommendation_System
+In a world saturated with entertainment choices, navigating the vast landscape of movies to find one that aligns with personal preferences can be a daunting task. This paper introduces a user-friendly content-based movie recommendation system developed in Python, leveraging the extensive MovieLens dataset. The system combines information from both the movies dataset and the user ratings dataset, offering a personalized cinematic journey for users.
